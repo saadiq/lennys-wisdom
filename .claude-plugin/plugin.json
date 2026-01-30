@@ -1,0 +1,64 @@
+{
+  "name": "lennys-wisdom",
+  "version": "1.0.0",
+  "description": "Expert frameworks and wisdom from Lenny's Podcast guests. Diagnostic questions match you with relevant experts for decision support and implementation guidance.",
+  "author": {
+    "name": "Saadiq Rodgers-King"
+  },
+  "repository": "https://github.com/saadiq/lennys-wisdom",
+  "license": "MIT",
+  "keywords": [
+    "product-management",
+    "growth",
+    "leadership",
+    "career",
+    "startups",
+    "sales",
+    "storytelling",
+    "AI",
+    "behavioral-design",
+    "marketplaces"
+  ],
+  "skills": [
+    {
+      "name": "growth",
+      "path": "skills/growth-activation.md"
+    },
+    {
+      "name": "product-strategy",
+      "path": "skills/product-strategy.md"
+    },
+    {
+      "name": "sales",
+      "path": "skills/sales-gtm.md"
+    },
+    {
+      "name": "story",
+      "path": "skills/storytelling.md"
+    },
+    {
+      "name": "leadership",
+      "path": "skills/leadership.md"
+    },
+    {
+      "name": "career",
+      "path": "skills/career.md"
+    },
+    {
+      "name": "ai",
+      "path": "skills/ai-future.md"
+    },
+    {
+      "name": "behavior",
+      "path": "skills/behavioral-design.md"
+    },
+    {
+      "name": "founder",
+      "path": "skills/founder-essentials.md"
+    },
+    {
+      "name": "marketplace",
+      "path": "skills/marketplaces.md"
+    }
+  ]
+}
