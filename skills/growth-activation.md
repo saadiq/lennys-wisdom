@@ -1,5 +1,5 @@
 ---
-name: growth
+name: lennys-growth
 description: Use when facing growth challenges - activation, PLG, experimentation, virality, word-of-mouth, retention, conversion. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

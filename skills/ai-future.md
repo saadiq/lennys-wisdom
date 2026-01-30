@@ -1,5 +1,5 @@
 ---
-name: ai
+name: lennys-ai
 description: Use when working on AI products, AI strategy, coding with AI, or understanding how AI changes work. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

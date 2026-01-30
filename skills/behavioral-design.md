@@ -1,5 +1,5 @@
 ---
-name: behavior
+name: lennys-behavior
 description: Use when working on user behavior, habit formation, motivation, psychological design, or getting users to take action. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

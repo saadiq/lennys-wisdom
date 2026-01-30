@@ -1,5 +1,5 @@
 ---
-name: leadership
+name: lennys-leadership
 description: Use when working on organizational design, team building, management, decision-making, or scaling teams. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

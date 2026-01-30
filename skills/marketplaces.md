@@ -1,5 +1,5 @@
 ---
-name: marketplace
+name: lennys-marketplace
 description: Use when working on marketplace strategy, two-sided networks, platform dynamics, or network effects. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

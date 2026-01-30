@@ -1,5 +1,5 @@
 ---
-name: career
+name: lennys-career
 description: Use when working on career development, job searching, advancement, negotiation, or professional growth. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

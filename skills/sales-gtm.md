@@ -1,5 +1,5 @@
 ---
-name: sales
+name: lennys-sales
 description: Use when working on sales strategy, go-to-market, positioning, pricing, enterprise sales, or launch strategy. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

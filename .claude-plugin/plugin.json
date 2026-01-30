@@ -21,43 +21,43 @@
   ],
   "skills": [
     {
-      "name": "growth",
+      "name": "lennys-growth",
       "path": "skills/growth-activation.md"
     },
     {
-      "name": "product-strategy",
+      "name": "lennys-product-strategy",
       "path": "skills/product-strategy.md"
     },
     {
-      "name": "sales",
+      "name": "lennys-sales",
       "path": "skills/sales-gtm.md"
     },
     {
-      "name": "story",
+      "name": "lennys-story",
       "path": "skills/storytelling.md"
     },
     {
-      "name": "leadership",
+      "name": "lennys-leadership",
       "path": "skills/leadership.md"
     },
     {
-      "name": "career",
+      "name": "lennys-career",
       "path": "skills/career.md"
     },
     {
-      "name": "ai",
+      "name": "lennys-ai",
       "path": "skills/ai-future.md"
     },
     {
-      "name": "behavior",
+      "name": "lennys-behavior",
       "path": "skills/behavioral-design.md"
     },
     {
-      "name": "founder",
+      "name": "lennys-founder",
       "path": "skills/founder-essentials.md"
     },
     {
-      "name": "marketplace",
+      "name": "lennys-marketplace",
       "path": "skills/marketplaces.md"
     }
   ]

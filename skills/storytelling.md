@@ -1,5 +1,5 @@
 ---
-name: story
+name: lennys-story
 description: Use when working on storytelling, presentations, pitching, strategic narratives, or communication. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

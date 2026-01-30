@@ -39,13 +39,13 @@ Each skill follows a consistent structure:
 
 | Command | Skill File |
 |---------|------------|
-| `/growth` | skills/growth-activation.md |
-| `/product-strategy` | skills/product-strategy.md |
-| `/sales` | skills/sales-gtm.md |
-| `/story` | skills/storytelling.md |
-| `/leadership` | skills/leadership.md |
-| `/career` | skills/career.md |
-| `/ai` | skills/ai-future.md |
-| `/behavior` | skills/behavioral-design.md |
-| `/founder` | skills/founder-essentials.md |
-| `/marketplace` | skills/marketplaces.md |
+| `/lennys-growth` | skills/growth-activation.md |
+| `/lennys-product-strategy` | skills/product-strategy.md |
+| `/lennys-sales` | skills/sales-gtm.md |
+| `/lennys-story` | skills/storytelling.md |
+| `/lennys-leadership` | skills/leadership.md |
+| `/lennys-career` | skills/career.md |
+| `/lennys-ai` | skills/ai-future.md |
+| `/lennys-behavior` | skills/behavioral-design.md |
+| `/lennys-founder` | skills/founder-essentials.md |
+| `/lennys-marketplace` | skills/marketplaces.md |

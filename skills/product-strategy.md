@@ -1,5 +1,5 @@
 ---
-name: product-strategy
+name: lennys-product-strategy
 description: Use when working on product strategy, prioritization, OKRs, roadmaps, vision, or deciding what to build. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

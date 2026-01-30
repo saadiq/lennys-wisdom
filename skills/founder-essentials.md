@@ -1,5 +1,5 @@
 ---
-name: founder
+name: lennys-founder
 description: Use when working on startup challenges - founding, fundraising, resilience, pivots, or company building. Surfaces expert frameworks from Lenny's Podcast guests.
 ---
 

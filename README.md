@@ -10,16 +10,16 @@ Each skill uses diagnostic questions to understand your context, then surfaces 2
 
 | Skill | Command | Description |
 |-------|---------|-------------|
-| Growth & Activation | `/growth` | PLG, activation, experimentation, virality, retention |
-| Product Strategy | `/product-strategy` | Vision, OKRs, prioritization, roadmaps |
-| Sales & GTM | `/sales` | Enterprise sales, positioning, pricing, launches |
-| Storytelling | `/story` | Narratives, presentations, pitching |
-| Leadership | `/leadership` | Org design, team building, decision-making |
-| Career | `/career` | Job search, advancement, negotiation |
-| AI & Future | `/ai` | AI products, coding with AI, future of work |
-| Behavioral Design | `/behavior` | Habits, motivation, psychology |
-| Founder Essentials | `/founder` | Startups, fundraising, resilience, pivots |
-| Marketplaces | `/marketplace` | Two-sided networks, platform dynamics |
+| Growth & Activation | `/lennys-growth` | PLG, activation, experimentation, virality, retention |
+| Product Strategy | `/lennys-product-strategy` | Vision, OKRs, prioritization, roadmaps |
+| Sales & GTM | `/lennys-sales` | Enterprise sales, positioning, pricing, launches |
+| Storytelling | `/lennys-story` | Narratives, presentations, pitching |
+| Leadership | `/lennys-leadership` | Org design, team building, decision-making |
+| Career | `/lennys-career` | Job search, advancement, negotiation |
+| AI & Future | `/lennys-ai` | AI products, coding with AI, future of work |
+| Behavioral Design | `/lennys-behavior` | Habits, motivation, psychology |
+| Founder Essentials | `/lennys-founder` | Startups, fundraising, resilience, pivots |
+| Marketplaces | `/lennys-marketplace` | Two-sided networks, platform dynamics |
 
 ## Featured Experts
 
@@ -47,7 +47,7 @@ In Claude Code, run:
 Invoke any skill by name:
 
 ```
-/growth
+/lennys-growth
 ```
 
 The skill will ask diagnostic questions to understand your situation, then recommend relevant expert frameworks.
@@ -55,7 +55,7 @@ The skill will ask diagnostic questions to understand your situation, then recom
 ### Example Flow
 
 ```
-User: /growth
+User: /lennys-growth
 
 Claude: What growth challenge are you facing?
 - Activation/onboarding
