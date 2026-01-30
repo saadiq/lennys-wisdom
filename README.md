@@ -36,24 +36,10 @@ Each skill uses diagnostic questions to understand your context, then surfaces 2
 
 ## Installation
 
-### From GitHub
+In Claude Code, run:
 
-```bash
-# Add as a marketplace
-/plugin marketplace add saadiq/lennys-wisdom
-
-# Install the plugin
-/plugin install lennys-wisdom
 ```
-
-### Manual Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/saadiq/lennys-wisdom.git
-
-# Link to Claude Code plugins
-ln -s /path/to/lennys-wisdom ~/.claude/plugins/lennys-wisdom
+/plugin add https://github.com/saadiq/lennys-wisdom
 ```
 
 ## Usage
