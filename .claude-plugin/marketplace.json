@@ -13,7 +13,10 @@
       "author": {
         "name": "Saadiq Rodgers-King"
       },
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/saadiq/lennys-wisdom.git"
+      },
       "category": "productivity",
       "homepage": "https://github.com/saadiq/lennys-wisdom"
     }
