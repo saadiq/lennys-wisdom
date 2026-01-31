@@ -10,8 +10,8 @@ Lenny's Wisdom is a Claude Code plugin that surfaces expert frameworks from Lenn
 
 This is a Claude Code plugin with the following structure:
 
-- **`.claude-plugin/plugin.json`** - Plugin manifest defining metadata and skill registrations
-- **`skills/`** - Markdown files containing expert frameworks, each with:
+- **`.claude-plugin/plugin.json`** - Plugin manifest defining metadata
+- **`skills/<skill-name>/SKILL.md`** - Auto-discovered skills containing expert frameworks, each with:
   - YAML frontmatter (`name`, `description`) for skill metadata
   - Diagnostic questions to understand user context
   - Expert frameworks with attribution, core insights, and implementation steps
@@ -30,22 +30,24 @@ Each skill follows a consistent structure:
 
 ## Adding New Skills
 
-1. Create a new markdown file in `skills/`
-2. Add YAML frontmatter with `name` and `description`
-3. Register in `.claude-plugin/plugin.json` under the `skills` array
+1. Create a new directory in `skills/` named after the skill (e.g., `skills/lennys-newskill/`)
+2. Create `SKILL.md` inside that directory
+3. Add YAML frontmatter with `name` and `description`
 4. Follow the diagnostic → frameworks → delivery pattern from existing skills
 
-## Skill Commands
+Skills are auto-discovered — no need to register in plugin.json.
 
-| Command | Skill File |
-|---------|------------|
-| `/lennys-growth` | skills/growth-activation.md |
-| `/lennys-product-strategy` | skills/product-strategy.md |
-| `/lennys-sales` | skills/sales-gtm.md |
-| `/lennys-story` | skills/storytelling.md |
-| `/lennys-leadership` | skills/leadership.md |
-| `/lennys-career` | skills/career.md |
-| `/lennys-ai` | skills/ai-future.md |
-| `/lennys-behavior` | skills/behavioral-design.md |
-| `/lennys-founder` | skills/founder-essentials.md |
-| `/lennys-marketplace` | skills/marketplaces.md |
+## Skills
+
+| Skill | Directory |
+|-------|-----------|
+| `/lennys-growth` | skills/lennys-growth/SKILL.md |
+| `/lennys-product-strategy` | skills/lennys-product-strategy/SKILL.md |
+| `/lennys-sales` | skills/lennys-sales/SKILL.md |
+| `/lennys-story` | skills/lennys-story/SKILL.md |
+| `/lennys-leadership` | skills/lennys-leadership/SKILL.md |
+| `/lennys-career` | skills/lennys-career/SKILL.md |
+| `/lennys-ai` | skills/lennys-ai/SKILL.md |
+| `/lennys-behavior` | skills/lennys-behavior/SKILL.md |
+| `/lennys-founder` | skills/lennys-founder/SKILL.md |
+| `/lennys-marketplace` | skills/lennys-marketplace/SKILL.md |
