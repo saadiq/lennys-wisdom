@@ -18,47 +18,5 @@
     "AI",
     "behavioral-design",
     "marketplaces"
-  ],
-  "skills": [
-    {
-      "name": "lennys-growth",
-      "path": "skills/growth-activation.md"
-    },
-    {
-      "name": "lennys-product-strategy",
-      "path": "skills/product-strategy.md"
-    },
-    {
-      "name": "lennys-sales",
-      "path": "skills/sales-gtm.md"
-    },
-    {
-      "name": "lennys-story",
-      "path": "skills/storytelling.md"
-    },
-    {
-      "name": "lennys-leadership",
-      "path": "skills/leadership.md"
-    },
-    {
-      "name": "lennys-career",
-      "path": "skills/career.md"
-    },
-    {
-      "name": "lennys-ai",
-      "path": "skills/ai-future.md"
-    },
-    {
-      "name": "lennys-behavior",
-      "path": "skills/behavioral-design.md"
-    },
-    {
-      "name": "lennys-founder",
-      "path": "skills/founder-essentials.md"
-    },
-    {
-      "name": "lennys-marketplace",
-      "path": "skills/marketplaces.md"
-    }
   ]
 }
