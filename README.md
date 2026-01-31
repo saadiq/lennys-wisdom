@@ -39,8 +39,14 @@ Each skill uses diagnostic questions to understand your context, then surfaces 2
 In Claude Code, run:
 
 ```
-/plugin marketplace add saadiq/lennys-wisdom
-/plugin install lennys-wisdom
+/plugin install https://github.com/saadiq/lennys-wisdom.git
+```
+
+Or for local development:
+
+```bash
+git clone https://github.com/saadiq/lennys-wisdom.git
+claude --plugin-dir ./lennys-wisdom
 ```
 
 ## Usage
